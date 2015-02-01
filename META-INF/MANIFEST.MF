@@ -4,5 +4,6 @@ Bundle-Name: ASE_2014
 Bundle-SymbolicName: ASE_2014
 Bundle-Version: 1.0.0
 Require-Bundle: org.eclipse.imp.pdb.values,
- rascal
+ rascal,
+ PHPAnalysis
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
